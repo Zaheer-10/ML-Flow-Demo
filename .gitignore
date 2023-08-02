@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+flow_env
 # C extensions
 *.so
 
@@ -67,6 +67,10 @@ instance/
 
 # Scrapy stuff:
 .scrapy
+
+flow_env
+.flow_env
+flow_env
 
 # Sphinx documentation
 docs/_build/
